@@ -1,4 +1,4 @@
-package student;
+package demo;
 
 public class studentMain {
     public static void main(String[] args) {

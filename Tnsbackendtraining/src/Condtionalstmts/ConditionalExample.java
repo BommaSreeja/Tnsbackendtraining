@@ -1,4 +1,4 @@
-package demo;
+package Condtionalstmts;
 
 public class ConditionalExample {
     public static void main(String[] args) {
