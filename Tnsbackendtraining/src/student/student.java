@@ -1,4 +1,4 @@
-package demo;
+package student;
 
 public class student {
     int rollno;
